@@ -1,0 +1,7 @@
+NAME    SALARY       DEPT
+
+SUPPI  20,00,000      IT
+
+SHIVA  40,00,000      IT
+
+CHINNA 50,00,000      IT
